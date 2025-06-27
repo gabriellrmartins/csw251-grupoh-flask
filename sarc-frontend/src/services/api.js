@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://rh3rhyjrq2.execute-api.us-east-1.amazonaws.com/dev';
+const API_BASE_URL = 'https://r33grhtvqi.execute-api.us-east-1.amazonaws.com/dev';
 
 const client = axios.create({
   baseURL: API_BASE_URL,
